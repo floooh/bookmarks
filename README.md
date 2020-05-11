@@ -84,7 +84,7 @@
 ## WASM stuff
 
 - https://github.com/schellingb/wajic (EM_JS without emscripten)
-- https://github.com/HumbleNet/HumbleNet (cross-platform netorking lib, also WebRTC/WebSockets)
+- https://github.com/HumbleNet/HumbleNet (cross-platform networking lib, also WebRTC/WebSockets)
 
 ## Misc stuff
 
