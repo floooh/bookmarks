@@ -65,6 +65,7 @@
 - https://github.com/guillaumeblanc/ozz-animation/ (character animation)
 - https://github.com/kinetiknz/cubeb (cross-platform audio)
 - https://github.com/KhronosGroup/SPIRV-Cross
+- https://github.com/pplux/px (C++ header-only memory management, task scheduler, rendering library)
 
 
 ## Dear ImGui stuff
