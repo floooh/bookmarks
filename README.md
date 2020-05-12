@@ -8,6 +8,7 @@
 - https://github.com/mhalber/msh 
 - https://github.com/gingerBill/gb
 - https://github.com/rmitton/rjm 
+- https://github.com/floooh/sokol
 
 ### Single-purpose single-file libraries
 
@@ -28,8 +29,10 @@
 - https://github.com/ands/lightmapper
 - https://github.com/ands/seamoptimizer
 - https://github.com/mjansson/json
+- https://github.com/memononen/fontstash
+- https://github.com/kazuho/picohash (MD5, SHA1, SHA224, SHA256, HMAC)
 
-### Single-purpose multi-file C libs
+### Single-purpose multi-file libraries
 
 - https://github.com/garettbass/oc (use ObjC APIs from C)
 - https://github.com/cloudwu/pbc (protocol buffers in C)
@@ -46,10 +49,12 @@
 - https://github.com/felselva/mathc
 - https://github.com/gpakosz/whereami (get own exe/dll directory)
 - https://github.com/networkprotocol/yojimbo (client/server networking library for games)
+- https://github.com/lsalzman/enet (reliable UDP networking library)
+- https://github.com/richgel999/miniz (zlib compression)
 
 ## C++ stuff
 
-- https://github.com/jarikomppa/soloud
+- https://github.com/jarikomppa/soloud (medium-level cross-platform audio library)
 - https://github.com/zeux/meshoptimizer
 - https://github.com/MADEAPPS/newton-dynamics/ (also has a C API)
 - https://github.com/imageworks/pystring (python strings in C++)
@@ -87,20 +92,26 @@
 - https://github.com/schellingb/wajic (EM_JS without emscripten)
 - https://github.com/HumbleNet/HumbleNet (cross-platform networking lib, also WebRTC/WebSockets)
 
+## Emulator stuff
+
+- https://github.com/floooh/chips
+- https://github.com/floooh/emu-info
+- https://github.com/mist64/perfect6502 (C port of visual6502 simulation)
+- http://xi6.com/projects/asmx/ (8-bit CPU assembler)
+- https://github.com/KarolS/millfork
+- https://github.com/scarybeasts/beebjit (jitting beeb emulator)
+- https://github.com/TomHarte/CLK
+
 ## Misc stuff
 
 - https://github.com/mattiasgustavsson/steem-crt (CRT effect!)
-- https://github.com/scarybeasts/beebjit (jitting beeb emulator)
 - https://github.com/wolfpld/tracy (frame profiler tool)
-- https://github.com/mist64/perfect6502 (C port of visual6502 simulation)
-- http://xi6.com/projects/asmx/ (8-bit CPU assembler)
 - https://github.com/luke8086/boot2c
 - https://github.com/nemequ/simde (SIMD without SIMD)
 - https://github.com/nesbox/TIC-80
-- https://github.com/KarolS/millfork
-- https://github.com/TomHarte/CLK
 - https://github.com/GreatBlambo/voxel_cone_tracing
 - https://github.com/microsoft/DirectXTex
 - https://github.com/mjansson/foundation_lib
 - https://github.com/google/bloaty
 - https://github.com/meshula/OpenSteer
+- https://github.com/heroiclabs/nakama ("social server" for games, written in Go)
