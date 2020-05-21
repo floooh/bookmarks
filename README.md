@@ -71,6 +71,7 @@
 - https://github.com/kinetiknz/cubeb (cross-platform audio)
 - https://github.com/KhronosGroup/SPIRV-Cross
 - https://github.com/pplux/px (C++ header-only memory management, task scheduler, rendering library)
+- https://github.com/jkuhlmann/gainput
 
 
 ## Dear ImGui stuff
