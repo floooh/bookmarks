@@ -85,6 +85,7 @@
 - https://github.com/CedricGuillemet/ImGuizmo
 - https://github.com/BrutPitt/imGuIZMO.quat
 - https://github.com/soulthreads/imgui-plot
+- https://github.com/epezent/implot
 - https://github.com/ggerganov/imgui-ws (Dear ImGui over WebSockets)
 - https://github.com/ocornut/imgui_club (memorye editor)
 
