@@ -9,6 +9,7 @@
 - https://github.com/gingerBill/gb
 - https://github.com/rmitton/rjm 
 - https://github.com/floooh/sokol
+- https://github.com/vurtun/mmx
 
 ### Single-purpose single-file libraries
 
