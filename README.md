@@ -32,6 +32,7 @@
 - https://github.com/mjansson/json
 - https://github.com/memononen/fontstash
 - https://github.com/kazuho/picohash (MD5, SHA1, SHA224, SHA256, HMAC)
+- https://github.com/vurtun/sdefl (deflate/inflate with minimal code)
 
 ### Single-purpose multi-file libraries
 
