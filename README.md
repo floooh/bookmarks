@@ -53,6 +53,7 @@
 - https://github.com/lsalzman/enet (reliable UDP networking library)
 - https://github.com/richgel999/miniz (zlib compression)
 - https://github.com/vurtun/sdefl (deflate/inflate with minimal code)
+- https://github.com/mattconte/tlsf (memory allocation in provided memory chunks)
 
 ## C++ stuff
 
