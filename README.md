@@ -25,6 +25,7 @@
 - https://github.com/jarikomppa/ipc
 - https://github.com/Immediate-Mode-UI/Nuklear
 - https://github.com/r-lyeh/stdstring.h
+- https://github.com/dr-soft/miniaudio
 - https://github.com/lieff/minimp3
 - https://github.com/HandmadeMath/Handmade-Math
 - https://github.com/ands/lightmapper
@@ -44,7 +45,6 @@
 - https://github.com/thi-ng/tinyalloc
 - https://github.com/mlabbe/nativefiledialog
 - https://github.com/AndrewBelt/osdialog
-- https://github.com/dr-soft/miniaudio
 - https://github.com/mokafolio/Tarp (vector graphics renderer)
 - https://github.com/recp/cglm (GLM for C)
 - https://github.com/felselva/mathc
