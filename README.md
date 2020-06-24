@@ -112,7 +112,7 @@
 - https://github.com/mattiasgustavsson/steem-crt (CRT effect!)
 - https://github.com/wolfpld/tracy (frame profiler tool)
 - https://github.com/luke8086/boot2c
-- https://github.com/nemequ/simde (SIMD without SIMD)
+- https://github.com/simd-everywhere/simde (SIMD without SIMD)
 - https://github.com/nesbox/TIC-80
 - https://github.com/GreatBlambo/voxel_cone_tracing
 - https://github.com/microsoft/DirectXTex
