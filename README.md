@@ -18,6 +18,7 @@
 - https://github.com/sheredom/json.h
 - https://github.com/sheredom/utest.h (simple unit testing in C)
 - https://github.com/sheredom/subprocess.h
+- https://github.com/sheredom/hashmap.h
 - https://github.com/zserge/jsmn (JSON parser)
 - https://github.com/jeremycw/httpserver.h
 - https://github.com/charlesnicholson/nanoprintf
