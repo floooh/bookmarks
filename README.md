@@ -80,6 +80,8 @@
 
 ## Dear ImGui stuff
 
+Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
+
 - https://github.com/ocornut/imgui
 - https://github.com/aiekick/ImGuiFileDialog
 - https://github.com/BalazsJako/ImGuiColorTextEdit
