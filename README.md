@@ -34,6 +34,8 @@
 - https://github.com/mjansson/json
 - https://github.com/memononen/fontstash
 - https://github.com/kazuho/picohash (MD5, SHA1, SHA224, SHA256, HMAC)
+- https://github.com/septag/sjson
+- https://github.com/septag/dmon (monitor directory changes)
 
 ### Single-purpose multi-file libraries
 
@@ -55,6 +57,7 @@
 - https://github.com/richgel999/miniz (zlib compression)
 - https://github.com/vurtun/sdefl (deflate/inflate with minimal code)
 - https://github.com/mattconte/tlsf (memory allocation in provided memory chunks)
+- https://github.com/cktan/tomlc99
 
 ## C++ stuff
 
