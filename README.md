@@ -10,6 +10,8 @@
 - https://github.com/rmitton/rjm 
 - https://github.com/floooh/sokol
 - https://github.com/vurtun/mmx
+- https://github.com/mackron/dr_libs (flac, mp3, wav decoding, also in dr-soft/miniaudio)
+
 
 ### Single-purpose single-file libraries
 
@@ -58,6 +60,8 @@
 - https://github.com/vurtun/sdefl (deflate/inflate with minimal code)
 - https://github.com/mattconte/tlsf (memory allocation in provided memory chunks)
 - https://github.com/cktan/tomlc99
+- https://github.com/rxi/cmixer (audio mixer)
+- https://github.com/kd7tck/jar (XM and Amiga-MOD decoders)
 
 ## C++ stuff
 
