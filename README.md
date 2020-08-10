@@ -111,6 +111,7 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 
 - https://github.com/floooh/chips
 - https://github.com/floooh/emu-info
+- https://github.com/larsbrinkhoff/awesome-cpus
 - https://github.com/mist64/perfect6502 (C port of visual6502 simulation)
 - http://xi6.com/projects/asmx/ (8-bit CPU assembler)
 - https://github.com/KarolS/millfork
