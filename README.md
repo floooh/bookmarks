@@ -38,6 +38,7 @@
 - https://github.com/kazuho/picohash (MD5, SHA1, SHA224, SHA256, HMAC)
 - https://github.com/septag/sjson
 - https://github.com/septag/dmon (monitor directory changes)
+p https://github.com/notnullnotvoid/msf_gif (animated GIF export)
 
 ### Single-purpose multi-file libraries
 
