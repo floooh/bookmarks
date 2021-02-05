@@ -63,6 +63,7 @@
 - https://github.com/cktan/tomlc99
 - https://github.com/rxi/cmixer (audio mixer)
 - https://github.com/kd7tck/jar (XM and Amiga-MOD decoders)
+- https://github.com/tinycthread/tinycthread (C11 thread API subset)
 
 ## C++ stuff
 
