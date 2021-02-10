@@ -136,3 +136,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/jimon/osx_app_in_plain_c (calling ObjC APIs from plain C)
 - https://github.com/mkeeter/futureproof (zig + nvim + wgpu + OSX UI)
 - https://github.com/ianhan/BitmapFonts (demo scene fonts)
+- https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html (how the audio stack on Linux works)
