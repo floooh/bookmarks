@@ -47,6 +47,7 @@
 - https://github.com/rxi/log.c
 - https://github.com/TheComet/ik (IK solver)
 - https://github.com/wc-duck/getopt (cmdline arg parser)
+- https://github.com/wc-duck/fswatcher (filewatcher, macOS support missing)
 - https://github.com/nanomsg/nng
 - https://github.com/thi-ng/tinyalloc
 - https://github.com/mlabbe/nativefiledialog
