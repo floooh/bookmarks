@@ -11,6 +11,7 @@
 - https://github.com/floooh/sokol
 - https://github.com/vurtun/mmx
 - https://github.com/mackron/dr_libs (flac, mp3, wav decoding, also in dr-soft/miniaudio)
+- https://github.com/schellingb/TinySoundFont
 
 
 ### Single-purpose single-file libraries
