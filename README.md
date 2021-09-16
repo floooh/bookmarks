@@ -118,6 +118,7 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/larsbrinkhoff/awesome-cpus
 - https://github.com/mist64/perfect6502 (C port of visual6502 simulation)
 - http://xi6.com/projects/asmx/ (8-bit CPU assembler)
+- https://github.com/vhelin/wla-dx (another 8-bit multi-cpu assembler package)
 - https://github.com/KarolS/millfork
 - https://github.com/scarybeasts/beebjit (jitting beeb emulator)
 - https://github.com/TomHarte/CLK
