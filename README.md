@@ -122,6 +122,7 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/KarolS/millfork
 - https://github.com/scarybeasts/beebjit (jitting beeb emulator)
 - https://github.com/TomHarte/CLK
+- https://github.com/maziac/DeZog
 
 ## Misc stuff
 
