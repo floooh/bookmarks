@@ -142,3 +142,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html (how the audio stack on Linux works)
 - https://github.com/NVIDIAGameWorks/nvrhi
 - https://jake-shadle.github.io/xwin/ (on cross-compiling Windows binaries with MSVC ABI from Linux)
+- https://github.com/ValveSoftware/GameNetworkingSockets (reliable and unreliable messages over UDP)
