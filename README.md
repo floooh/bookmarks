@@ -12,7 +12,7 @@
 - https://github.com/vurtun/mmx
 - https://github.com/mackron/dr_libs (flac, mp3, wav decoding, also in dr-soft/miniaudio)
 - https://github.com/schellingb/TinySoundFont
-
+- https://github.com/kieselsteini/sts
 
 ### Single-purpose single-file libraries
 
@@ -57,8 +57,6 @@
 - https://github.com/recp/cglm (GLM for C)
 - https://github.com/felselva/mathc
 - https://github.com/gpakosz/whereami (get own exe/dll directory)
-- https://github.com/networkprotocol/yojimbo (client/server networking library for games)
-- https://github.com/lsalzman/enet (reliable UDP networking library)
 - https://github.com/richgel999/miniz (zlib compression)
 - https://github.com/vurtun/sdefl (deflate/inflate with minimal code)
 - https://github.com/mattconte/tlsf (memory allocation in provided memory chunks)
@@ -109,7 +107,6 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 ## WASM stuff
 
 - https://github.com/schellingb/wajic (EM_JS without emscripten)
-- https://github.com/HumbleNet/HumbleNet (cross-platform networking lib, also WebRTC/WebSockets)
 
 ## Emulator stuff
 
@@ -124,6 +121,16 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/TomHarte/CLK
 - https://github.com/maziac/DeZog
 
+# Networking Suff
+
+- https://github.com/ValveSoftware/GameNetworkingSockets (reliable and unreliable messages over UDP)
+- https://github.com/lsalzman/enet (reliable UDP networking library)
+- https://github.com/heroiclabs/nakama ("social server" for games, written in Go)
+- https://github.com/networkprotocol/yojimbo (client/server networking library for games)
+- https://github.com/HumbleNet/HumbleNet (cross-platform networking lib, also WebRTC/WebSockets)
+- https://github.com/nathhB/nbnet
+- https://github.com/kieselsteini/sts/blob/master/sts_net.h 
+
 ## Misc stuff
 
 - https://github.com/mattiasgustavsson/steem-crt (CRT effect!)
@@ -136,11 +143,9 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/mjansson/foundation_lib
 - https://github.com/google/bloaty
 - https://github.com/meshula/OpenSteer
-- https://github.com/heroiclabs/nakama ("social server" for games, written in Go)
 - https://github.com/jimon/osx_app_in_plain_c (calling ObjC APIs from plain C)
 - https://github.com/mkeeter/futureproof (zig + nvim + wgpu + OSX UI)
 - https://github.com/ianhan/BitmapFonts (demo scene fonts)
 - https://venam.nixers.net/blog/unix/2021/02/07/audio-stack.html (how the audio stack on Linux works)
 - https://github.com/NVIDIAGameWorks/nvrhi
 - https://jake-shadle.github.io/xwin/ (on cross-compiling Windows binaries with MSVC ABI from Linux)
-- https://github.com/ValveSoftware/GameNetworkingSockets (reliable and unreliable messages over UDP)
