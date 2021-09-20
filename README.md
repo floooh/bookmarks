@@ -128,7 +128,7 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/heroiclabs/nakama ("social server" for games, written in Go)
 - https://github.com/networkprotocol/yojimbo (client/server networking library for games)
 - https://github.com/HumbleNet/HumbleNet (cross-platform networking lib, also WebRTC/WebSockets)
-- https://github.com/nathhB/nbnet
+- https://github.com/nathhB/nbnet (also supports WebRTC)
 - https://github.com/kieselsteini/sts/blob/master/sts_net.h 
 
 ## Misc stuff
