@@ -40,6 +40,7 @@
 - https://github.com/septag/sjson
 - https://github.com/septag/dmon (monitor directory changes)
 - https://github.com/notnullnotvoid/msf_gif (animated GIF export)
+- https://github.com/stbachmann/xjson
 
 ### Single-purpose multi-file libraries
 
