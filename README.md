@@ -2,12 +2,12 @@
 
 ### Single-file library collections
 
-- https://github.com/prideout/par 
+- https://github.com/prideout/par
 - https://github.com/RandyGaul/cute_headers
 - https://github.com/mattiasgustavsson/libs
-- https://github.com/mhalber/msh 
+- https://github.com/mhalber/msh
 - https://github.com/gingerBill/gb
-- https://github.com/rmitton/rjm 
+- https://github.com/rmitton/rjm
 - https://github.com/floooh/sokol
 - https://github.com/vurtun/mmx
 - https://github.com/mackron/dr_libs (flac, mp3, wav decoding, also in dr-soft/miniaudio)
@@ -86,7 +86,8 @@
 - https://github.com/KhronosGroup/SPIRV-Cross
 - https://github.com/pplux/px (C++ header-only memory management, task scheduler, rendering library)
 - https://github.com/jkuhlmann/gainput
-- https://github.com/hypernewbie/VEFontCache 
+- https://github.com/hypernewbie/VEFontCache
+- https://github.com/castano/icbc (BC1 encoder - but also see stb_dxt.h)
 
 ## Dear ImGui stuff
 
@@ -131,7 +132,7 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/networkprotocol/yojimbo (client/server networking library for games)
 - https://github.com/HumbleNet/HumbleNet (cross-platform networking lib, also WebRTC/WebSockets)
 - https://github.com/nathhB/nbnet (also supports WebRTC)
-- https://github.com/kieselsteini/sts/blob/master/sts_net.h 
+- https://github.com/kieselsteini/sts/blob/master/sts_net.h
 
 ## Misc stuff
 
@@ -153,4 +154,3 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://jake-shadle.github.io/xwin/ (on cross-compiling Windows binaries with MSVC ABI from Linux)
 - https://github.com/trishume/MetalTest (glitchfree window resizing on Metal)
 - https://github.com/libsixel/libsixel (vterm sixel encoding library and tools)
-
