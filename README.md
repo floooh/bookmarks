@@ -154,3 +154,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://jake-shadle.github.io/xwin/ (on cross-compiling Windows binaries with MSVC ABI from Linux)
 - https://github.com/trishume/MetalTest (glitchfree window resizing on Metal)
 - https://github.com/libsixel/libsixel (vterm sixel encoding library and tools)
+- https://dsego.github.io/demystifying-fourier/
