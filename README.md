@@ -156,4 +156,5 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/libsixel/libsixel (vterm sixel encoding library and tools)
 - https://dsego.github.io/demystifying-fourier/
 - https://alextardif.com/DX12Tutorial.html
-- https://uica.uops.info/
+- https://uica.uops.info/ (CPU code analyzer / microcode simulator)
+- https://github.com/LMP88959/NTSC-CRT (NTSC signal emulation)
