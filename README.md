@@ -158,3 +158,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://alextardif.com/DX12Tutorial.html
 - https://uica.uops.info/ (CPU code analyzer / microcode simulator)
 - https://github.com/LMP88959/NTSC-CRT (NTSC signal emulation)
+- https://twitter.com/SebAaltonen/status/1616771875413049344 (thoughts about a minimal GPU memory allocator)
