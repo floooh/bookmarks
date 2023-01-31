@@ -41,6 +41,7 @@
 - https://github.com/septag/dmon (monitor directory changes)
 - https://github.com/notnullnotvoid/msf_gif (animated GIF export)
 - https://github.com/stbachmann/xjson
+- https://github.com/pjako/msdf_c (multichannel SDF font generator)
 
 ### Single-purpose multi-file libraries
 
