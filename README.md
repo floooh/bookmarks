@@ -42,6 +42,7 @@
 - https://github.com/notnullnotvoid/msf_gif (animated GIF export)
 - https://github.com/stbachmann/xjson
 - https://github.com/pjako/msdf_c (multichannel SDF font generator)
+- https://github.com/martincameron/micromod (a minimal MOD player library)
 
 ### Single-purpose multi-file libraries
 
@@ -160,3 +161,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://uica.uops.info/ (CPU code analyzer / microcode simulator)
 - https://github.com/LMP88959/NTSC-CRT (NTSC signal emulation)
 - https://twitter.com/SebAaltonen/status/1616771875413049344 (thoughts about a minimal GPU memory allocator)
+- https://github.com/binji/raw-wasm/ binji's WebAssembly demos
