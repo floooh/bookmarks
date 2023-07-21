@@ -162,3 +162,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/LMP88959/NTSC-CRT (NTSC signal emulation)
 - https://twitter.com/SebAaltonen/status/1616771875413049344 (thoughts about a minimal GPU memory allocator)
 - https://github.com/binji/raw-wasm/ binji's WebAssembly demos
+- https://acko.net/blog/subpixel-distance-transform/ on SDF font generation and rendering
