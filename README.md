@@ -72,6 +72,7 @@
 
 - https://github.com/jarikomppa/soloud (medium-level cross-platform audio library)
 - https://github.com/zeux/meshoptimizer
+- https://github.com/sebbbi/OffsetAllocator
 - https://github.com/MADEAPPS/newton-dynamics/ (also has a C API)
 - https://github.com/imageworks/pystring (python strings in C++)
 - https://github.com/fmtlib/fmt (python string formatting in C++)
