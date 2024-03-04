@@ -126,6 +126,7 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/scarybeasts/beebjit (jitting beeb emulator)
 - https://github.com/TomHarte/CLK
 - https://github.com/maziac/DeZog
+- https://github.com/mattiasgustavsson/yarnspin/blob/main/source/libs/crtemu.h (Mattias Gustavson's latest CRT shader incarnation)
 
 # Networking Suff
 
