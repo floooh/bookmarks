@@ -13,6 +13,7 @@
 - https://github.com/mackron/dr_libs (flac, mp3, wav decoding, also in dr-soft/miniaudio)
 - https://github.com/schellingb/TinySoundFont
 - https://github.com/kieselsteini/sts
+- https://github.com/Daivuk/PureDOOM - Doom in a C header
 
 ### Single-purpose single-file libraries
 
