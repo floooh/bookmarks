@@ -167,3 +167,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/binji/raw-wasm/ binji's WebAssembly demos
 - https://acko.net/blog/subpixel-distance-transform/ on SDF font generation and rendering
 - https://github.com/enkimute/LookMaNoMatrices
+- https://github.com/yugr/Implib.so - MSVC-style delay loading for POSIX DLLs
