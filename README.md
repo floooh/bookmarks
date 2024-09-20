@@ -173,3 +173,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/enkimute/LookMaNoMatrices
 - https://github.com/yugr/Implib.so - MSVC-style delay loading for POSIX DLLs
 - https://www.youtube.com/watch?v=d15RXWp1Rqo - nicebyte's 'Vulkan Synchronization Made Easy' talk
+- https://shady-gang.github.io/vcc/ - the 'vulkan clang compiler'
