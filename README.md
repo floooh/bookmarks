@@ -44,6 +44,7 @@
 - https://github.com/stbachmann/xjson
 - https://github.com/pjako/msdf_c (multichannel SDF font generator)
 - https://github.com/martincameron/micromod (a minimal MOD player library)
+- https://github.com/jbikker/tinybvh (BVH construction and traversal library, C++)
 
 ### Single-purpose multi-file libraries
 
