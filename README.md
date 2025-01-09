@@ -177,3 +177,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://www.youtube.com/watch?v=d15RXWp1Rqo - nicebyte's 'Vulkan Synchronization Made Easy' talk
 - https://shady-gang.github.io/vcc/ - the 'vulkan clang compiler'
 - https://www.shadertoy.com/view/3s33zj - adjoint vs transpose(inverse(...)) for transforming normals
+- https://github.com/gnikoloff/webgpu-sponza-demo - WebGPU demo implementing various rendering techniques
