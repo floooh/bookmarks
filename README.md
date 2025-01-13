@@ -178,3 +178,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://shady-gang.github.io/vcc/ - the 'vulkan clang compiler'
 - https://www.shadertoy.com/view/3s33zj - adjoint vs transpose(inverse(...)) for transforming normals
 - https://github.com/gnikoloff/webgpu-sponza-demo - WebGPU demo implementing various rendering techniques
+- https://github.com/cryptocode/terminal-doom - Doom in Terminal via Kitty Graphics Protocol
