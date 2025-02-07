@@ -69,6 +69,7 @@
 - https://github.com/rxi/cmixer (audio mixer)
 - https://github.com/kd7tck/jar (XM and Amiga-MOD decoders)
 - https://github.com/tinycthread/tinycthread (C11 thread API subset)
+- https://github.com/ufbx/ufbx - FBX loader
 
 ## C++ stuff
 
