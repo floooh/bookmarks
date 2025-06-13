@@ -120,6 +120,7 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 ## WASM stuff
 
 - https://github.com/schellingb/wajic (EM_JS without emscripten)
+- https://github.com/juj/wasm_webgpu (juj's alternative WebGPU shim)
 
 ## Emulator stuff
 
