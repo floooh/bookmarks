@@ -46,6 +46,7 @@
 - https://github.com/martincameron/micromod (a minimal MOD player library)
 - https://github.com/jbikker/tinybvh (BVH construction and traversal library, C++)
 - https://github.com/aras-p/smol-atlas (sprite atlas packing with minimal code)
+- https://github.com/JimmyLefevre/kb/ (kb_text_shape.h: Unicode text segmentation and OpenType shaping)
 
 ### Single-purpose multi-file libraries
 
