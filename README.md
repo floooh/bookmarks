@@ -72,6 +72,7 @@
 - https://github.com/kd7tck/jar (XM and Amiga-MOD decoders)
 - https://github.com/tinycthread/tinycthread (C11 thread API subset)
 - https://github.com/ufbx/ufbx - FBX loader
+- https://github.com/memononen/Skribidi/ - bidirectional text stack for building UIs
 
 ## C++ stuff
 
