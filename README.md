@@ -186,3 +186,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/cryptocode/terminal-doom - Doom in Terminal via Kitty Graphics Protocol
 - https://pema.dev/2025/05/09/mipmaps-too-much-detail/
 - https://logdahl.net/p/gpu-driven - GPU driven clustered forward rendering
+- https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/ - a series about GPU synchronization and preemption
