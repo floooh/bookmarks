@@ -4,7 +4,7 @@
 
 - https://github.com/prideout/par
 - https://github.com/RandyGaul/cute_headers
-- https://github.com/mattiasgustavsson/libs
+- https://github.com/mattiasgustavsson/libs (also vecmath.h!)
 - https://github.com/mhalber/msh
 - https://github.com/gingerBill/gb
 - https://github.com/rmitton/rjm
