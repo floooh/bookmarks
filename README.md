@@ -187,3 +187,4 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://pema.dev/2025/05/09/mipmaps-too-much-detail/
 - https://logdahl.net/p/gpu-driven - GPU driven clustered forward rendering
 - https://therealmjp.github.io/posts/breaking-down-barriers-part-1-whats-a-barrier/ - a series about GPU synchronization and preemption
+- https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html - anti-aliasing sdfs
