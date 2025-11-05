@@ -191,3 +191,7 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://blog.pkh.me/p/44-perfecting-anti-aliasing-on-signed-distance-functions.html - anti-aliasing sdfs
 - https://github.com/DiligentGraphics/DiligentFX - nice post-process effects
 - https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html - compute distance maps for fonts
+
+## Blogs
+
+- https://therealmjp.github.io/posts/
