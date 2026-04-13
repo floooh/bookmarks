@@ -193,7 +193,8 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://blog.pkh.me/p/47-text-rendering-and-effects-using-gpu-computed-distances.html - compute distance maps for fonts
 - https://github.com/EricLengyel/Slug - reference shader for Slug text renderer
 - https://github.com/TheRealMJP/Shadows - various shadow mapping techniques in D3D11
--
+- https://gpfault.net/posts/sph.html - spherical harmonics post by nicebyte
+
 ## Blogs
 
 - https://therealmjp.github.io/posts/
