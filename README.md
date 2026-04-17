@@ -194,6 +194,7 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://github.com/EricLengyel/Slug - reference shader for Slug text renderer
 - https://github.com/TheRealMJP/Shadows - various shadow mapping techniques in D3D11
 - https://gpfault.net/posts/sph.html - spherical harmonics post by nicebyte
+- https://www.ludicon.com/castano/blog/articles/shadow-mapping-summary-part-1/ - shadow mapping in Witness
 
 ## Blogs
 
