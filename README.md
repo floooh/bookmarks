@@ -196,7 +196,8 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://gpfault.net/posts/sph.html - spherical harmonics post by nicebyte
 - https://www.ludicon.com/castano/blog/articles/shadow-mapping-summary-part-1/ - shadow mapping in Witness
 - https://krupitskas.com/posts/modern_culling_techniques/
-
+- https://github.com/alfishe/amiga-bootcamp
+-
 ## Blogs
 
 - https://therealmjp.github.io/posts/
