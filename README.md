@@ -198,6 +198,7 @@ Also see: https://github.com/ocornut/imgui/wiki#Useful-widgets--references
 - https://krupitskas.com/posts/modern_culling_techniques/
 - https://github.com/alfishe/amiga-bootcamp
 - https://outerra.blogspot.com/2012/11/maximizing-depth-buffer-range-and.html
+- https://github.com/MoonsideGames/Cram - sprite atlas packer
 
 ## Blogs
 
